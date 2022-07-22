@@ -1,4 +1,7 @@
 # RectangleIntoSquares
+
+#### A function in Go that outputs the number of squares in a rectangle given length and width.  
+
 The drawing below gives an idea of how to cut a given "true" rectangle into squares ("true" rectangle meaning that the two dimensions are different).
 
 ![alt text](/RectangleIntoSquares/squares.jpg?raw=true)
