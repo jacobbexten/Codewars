@@ -1,7 +1,7 @@
 # RectangleIntoSquares
 The drawing below gives an idea of how to cut a given "true" rectangle into squares ("true" rectangle meaning that the two dimensions are different).
 
-![alt text](/squares.jpg?raw=true)
+![alt text](/RectangleIntoSquares/squares.jpg?raw=true)
 
 Can you translate this drawing into an algorithm?  
 
