@@ -1,2 +1,2 @@
 # Codewars
-Various Codewars projects I've completed.
+Codewars projects I've completed.
