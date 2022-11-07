@@ -1,2 +1,2 @@
 # Codewars
-Codewars projects I've completed.
+Codewars problems I've solved either in Go, Python, or Java.
